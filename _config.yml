@@ -27,7 +27,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   thinking, whether in academic research, industry experience, or personal passion projects.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: /assets/images/profile-image/Screenshot 2024-11-15 114255.png
+profile_image: ./assets/images/profile-image/Screenshot 2024-11-15 114255.png
 
 
 # Link your resume
@@ -38,7 +38,7 @@ resume-url: https://drive.google.com/file/d/1Je8Y-BohR6enfY-LhqaLc74rT41OjX11/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: ali-m-ali7803/    # https://www.linkedin.com/in/{your url slug} 
+  linkedin: ali-m-ali7803    # https://www.linkedin.com/in/{your url slug} 
   #github: leea2    # https://github.com/{your url slug} 
   #stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
   #medium:            # https://medium.com/@{your url slug} 
@@ -85,7 +85,7 @@ skills:
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/mzzdvnap
+formspree-key:   mzzdvnap
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the same.

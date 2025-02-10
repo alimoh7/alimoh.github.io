@@ -27,7 +27,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   thinking, whether in academic research, industry experience, or personal passion projects.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/Screenshot_2024-11-15_114255.png
+profile_image: /assets/images/profile-image/Screenshot_2024-11-15_114255.png
 
 
 # Link your resume

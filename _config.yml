@@ -21,7 +21,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   Google search results) and in your feed.xml site description.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/Screenshot 2024-11-15 114255.png
+profile_image: /assets/images/profile-image/Screenshot 2024-11-15 114255.png
 
 
 # Link your resume
@@ -32,60 +32,50 @@ resume-url: https://drive.google.com/file/d/1Je8Y-BohR6enfY-LhqaLc74rT41OjX11/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: https://www.linkedin.com/in/ali-m-ali7803/    # https://www.linkedin.com/in/{your url slug} 
-  github: leea2    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
-  medium:            # https://medium.com/@{your url slug} 
-  x-twitter:   # https://x.com/{your url slug} 
-  threads:            # https://threads.net/@{your url slug} 
-  instragram:       # https://instagram.com/{your url slug} 
-  youtube:           # https://youtube.com/@{your url slug} 
-  discord:            # https://discord.com/users/{your url slug} 
-  bluesky:           # https://bsky.app/profile/{your url slug} 
+  linkedin: ali-m-ali7803/    # https://www.linkedin.com/in/{your url slug} 
+  #github: leea2    # https://github.com/{your url slug} 
+  #stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  #medium:            # https://medium.com/@{your url slug} 
+  #x-twitter:   # https://x.com/{your url slug} 
+  #threads:            # https://threads.net/@{your url slug} 
+  #instragram:       # https://instagram.com/{your url slug} 
+  #youtube:           # https://youtube.com/@{your url slug} 
+  #discord:            # https://discord.com/users/{your url slug} 
+  #bluesky:           # https://bsky.app/profile/{your url slug} 
   
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: Software
     tools:
-    - Onshape
     - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
-  - category: Prototyping
+    - MATLAB
+    - ANSYS
+    - Microsoft Office Suite
+    - Google Workspace
+  - category: Other
     tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
-  - category: Design Standards / Practices
-    tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
-    tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
-  - category: Problem Solving / Risk Management
-    tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
-    - Six Sigma methodologies
-    - Shain Red-X
+    - OSHA-10 Certification
+    - WorkKeys Gold Certification
+    - 3D Printing
+    - Mig Welding
+  #- category: Design Standards / Practices
+    #tools:
+    #- GD&T ASME Y14
+    #- ISO fits and tolerances
+    #- PLM (PTC Windchill / Arena)   
+  #- category: PCB Design
+    #tools:
+    #- Altium Designer
+    #- Altium
+    #- Eagle 
+    #- KiCad
+  #- category: Problem Solving / Risk Management
+    #tools:
+    #- Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
+    #- DFMEA / PFMEA 
+    #- Six Sigma methodologies
+    #- Shain Red-X
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
@@ -103,37 +93,37 @@ colors: # this is the basic theme
   light_background: "#f3f5fb"
 
 # A few examples. 
-basic theme:
-  text: "#1a1c20"
-  border: "#ddd"
-  link: "#4a76ee"
-  highlight: "#0c0cf2"
-  background: "#ffffff"
-  light_background: "#f3f5fb"
+#basic theme:
+  #text: "#1a1c20"
+  #border: "#ddd"
+  #link: "#4a76ee"
+  #highlight: "#0c0cf2"
+  #background: "#ffffff"
+  #light_background: "#f3f5fb"
   
-  mint theme:
-  text: "#2c3333"
-  border: "#e0f2ef"
-  link: "#40b3a2"
-  highlight: "#2a9d8f"
-  background: "#f7fbfa"
-  light_background: "#f0f9f7"
+  #mint theme:
+  #text: "#2c3333"
+  #border: "#e0f2ef"
+  #link: "#40b3a2"
+  #highlight: "#2a9d8f"
+  #background: "#f7fbfa"
+  #light_background: "#f0f9f7"
   
-lemon theme:
-  text: "#2d2926"
-  border: "#f7f3e3"
-  link: "#ffc94d"
-  highlight: "#ffb800"
-  background: "#fffdf5"
-  light_background: "#fff9e6"
+#lemon theme:
+  #text: "#2d2926"
+  #border: "#f7f3e3"
+  #link: "#ffc94d"
+  #highlight: "#ffb800"
+  #background: "#fffdf5"
+  #light_background: "#fff9e6"
   
-  pink theme:
-  text: "#2d2d2d"
-  border: "#f8e2e2"
-  link: "#ff8fa3"
-  highlight: "#ff4d6d"
-  background: "#fff8f8"
-  light_background: "#fff5f6"
+  #pink theme:
+  #text: "#2d2d2d"
+  #border: "#f8e2e2"
+  #link: "#ff8fa3"
+  #highlight: "#ff4d6d"
+  #background: "#fff8f8"
+  #light_background: "#fff5f6"
 
 
 
